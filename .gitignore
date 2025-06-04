@@ -1,0 +1,5 @@
+# Ignore files and directories that should not be tracked by Git
+node_modules
+
+# .env files
+.env
